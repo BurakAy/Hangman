@@ -1,0 +1,30 @@
+--- !ruby/object:Hangman
+word:
+- f
+- r
+- a
+- n
+- g
+- i
+- b
+- i
+- l
+- i
+- t
+- y
+display:
+- f
+- 
+- 
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+misses:
+- soporiferous
+turns: 5
